@@ -1,0 +1,15 @@
+F:\mahsan\projects\helloWorld\04_fields\bin\Debug\net10.0\04_fields.exe
+F:\mahsan\projects\helloWorld\04_fields\bin\Debug\net10.0\04_fields.deps.json
+F:\mahsan\projects\helloWorld\04_fields\bin\Debug\net10.0\04_fields.runtimeconfig.json
+F:\mahsan\projects\helloWorld\04_fields\bin\Debug\net10.0\04_fields.dll
+F:\mahsan\projects\helloWorld\04_fields\bin\Debug\net10.0\04_fields.pdb
+F:\mahsan\projects\helloWorld\04_fields\obj\Debug\net10.0\04_fields.GeneratedMSBuildEditorConfig.editorconfig
+F:\mahsan\projects\helloWorld\04_fields\obj\Debug\net10.0\04_fields.AssemblyInfoInputs.cache
+F:\mahsan\projects\helloWorld\04_fields\obj\Debug\net10.0\04_fields.AssemblyInfo.cs
+F:\mahsan\projects\helloWorld\04_fields\obj\Debug\net10.0\04_fields.csproj.CoreCompileInputs.cache
+F:\mahsan\projects\helloWorld\04_fields\obj\Debug\net10.0\04_fields.sourcelink.json
+F:\mahsan\projects\helloWorld\04_fields\obj\Debug\net10.0\04_fields.dll
+F:\mahsan\projects\helloWorld\04_fields\obj\Debug\net10.0\refint\04_fields.dll
+F:\mahsan\projects\helloWorld\04_fields\obj\Debug\net10.0\04_fields.pdb
+F:\mahsan\projects\helloWorld\04_fields\obj\Debug\net10.0\04_fields.genruntimeconfig.cache
+F:\mahsan\projects\helloWorld\04_fields\obj\Debug\net10.0\ref\04_fields.dll
