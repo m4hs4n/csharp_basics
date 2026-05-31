@@ -1,0 +1,15 @@
+F:\mahsan\projects\helloWorld\03_constructer\bin\Debug\net10.0\03_constructer.exe
+F:\mahsan\projects\helloWorld\03_constructer\bin\Debug\net10.0\03_constructer.deps.json
+F:\mahsan\projects\helloWorld\03_constructer\bin\Debug\net10.0\03_constructer.runtimeconfig.json
+F:\mahsan\projects\helloWorld\03_constructer\bin\Debug\net10.0\03_constructer.dll
+F:\mahsan\projects\helloWorld\03_constructer\bin\Debug\net10.0\03_constructer.pdb
+F:\mahsan\projects\helloWorld\03_constructer\obj\Debug\net10.0\03_constructer.GeneratedMSBuildEditorConfig.editorconfig
+F:\mahsan\projects\helloWorld\03_constructer\obj\Debug\net10.0\03_constructer.AssemblyInfoInputs.cache
+F:\mahsan\projects\helloWorld\03_constructer\obj\Debug\net10.0\03_constructer.AssemblyInfo.cs
+F:\mahsan\projects\helloWorld\03_constructer\obj\Debug\net10.0\03_constructer.csproj.CoreCompileInputs.cache
+F:\mahsan\projects\helloWorld\03_constructer\obj\Debug\net10.0\03_constructer.sourcelink.json
+F:\mahsan\projects\helloWorld\03_constructer\obj\Debug\net10.0\03_constructer.dll
+F:\mahsan\projects\helloWorld\03_constructer\obj\Debug\net10.0\refint\03_constructer.dll
+F:\mahsan\projects\helloWorld\03_constructer\obj\Debug\net10.0\03_constructer.pdb
+F:\mahsan\projects\helloWorld\03_constructer\obj\Debug\net10.0\03_constructer.genruntimeconfig.cache
+F:\mahsan\projects\helloWorld\03_constructer\obj\Debug\net10.0\ref\03_constructer.dll
