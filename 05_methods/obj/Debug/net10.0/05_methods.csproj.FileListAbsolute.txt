@@ -1,0 +1,15 @@
+F:\mahsan\projects\helloWorld\05_methods\bin\Debug\net10.0\05_methods.exe
+F:\mahsan\projects\helloWorld\05_methods\bin\Debug\net10.0\05_methods.deps.json
+F:\mahsan\projects\helloWorld\05_methods\bin\Debug\net10.0\05_methods.runtimeconfig.json
+F:\mahsan\projects\helloWorld\05_methods\bin\Debug\net10.0\05_methods.dll
+F:\mahsan\projects\helloWorld\05_methods\bin\Debug\net10.0\05_methods.pdb
+F:\mahsan\projects\helloWorld\05_methods\obj\Debug\net10.0\05_methods.GeneratedMSBuildEditorConfig.editorconfig
+F:\mahsan\projects\helloWorld\05_methods\obj\Debug\net10.0\05_methods.AssemblyInfoInputs.cache
+F:\mahsan\projects\helloWorld\05_methods\obj\Debug\net10.0\05_methods.AssemblyInfo.cs
+F:\mahsan\projects\helloWorld\05_methods\obj\Debug\net10.0\05_methods.csproj.CoreCompileInputs.cache
+F:\mahsan\projects\helloWorld\05_methods\obj\Debug\net10.0\05_methods.sourcelink.json
+F:\mahsan\projects\helloWorld\05_methods\obj\Debug\net10.0\05_methods.dll
+F:\mahsan\projects\helloWorld\05_methods\obj\Debug\net10.0\refint\05_methods.dll
+F:\mahsan\projects\helloWorld\05_methods\obj\Debug\net10.0\05_methods.pdb
+F:\mahsan\projects\helloWorld\05_methods\obj\Debug\net10.0\05_methods.genruntimeconfig.cache
+F:\mahsan\projects\helloWorld\05_methods\obj\Debug\net10.0\ref\05_methods.dll
