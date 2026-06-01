@@ -1,0 +1,15 @@
+F:\mahsan\projects\helloWorld\06_access_modifiers\bin\Debug\net10.0\06_access_modifiers.exe
+F:\mahsan\projects\helloWorld\06_access_modifiers\bin\Debug\net10.0\06_access_modifiers.deps.json
+F:\mahsan\projects\helloWorld\06_access_modifiers\bin\Debug\net10.0\06_access_modifiers.runtimeconfig.json
+F:\mahsan\projects\helloWorld\06_access_modifiers\bin\Debug\net10.0\06_access_modifiers.dll
+F:\mahsan\projects\helloWorld\06_access_modifiers\bin\Debug\net10.0\06_access_modifiers.pdb
+F:\mahsan\projects\helloWorld\06_access_modifiers\obj\Debug\net10.0\06_access_modifiers.GeneratedMSBuildEditorConfig.editorconfig
+F:\mahsan\projects\helloWorld\06_access_modifiers\obj\Debug\net10.0\06_access_modifiers.AssemblyInfoInputs.cache
+F:\mahsan\projects\helloWorld\06_access_modifiers\obj\Debug\net10.0\06_access_modifiers.AssemblyInfo.cs
+F:\mahsan\projects\helloWorld\06_access_modifiers\obj\Debug\net10.0\06_access_modifiers.csproj.CoreCompileInputs.cache
+F:\mahsan\projects\helloWorld\06_access_modifiers\obj\Debug\net10.0\06_access_modifiers.sourcelink.json
+F:\mahsan\projects\helloWorld\06_access_modifiers\obj\Debug\net10.0\06_access_modifiers.dll
+F:\mahsan\projects\helloWorld\06_access_modifiers\obj\Debug\net10.0\refint\06_access_modifiers.dll
+F:\mahsan\projects\helloWorld\06_access_modifiers\obj\Debug\net10.0\06_access_modifiers.pdb
+F:\mahsan\projects\helloWorld\06_access_modifiers\obj\Debug\net10.0\06_access_modifiers.genruntimeconfig.cache
+F:\mahsan\projects\helloWorld\06_access_modifiers\obj\Debug\net10.0\ref\06_access_modifiers.dll
