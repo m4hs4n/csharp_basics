@@ -1,21 +1,35 @@
 # C# Basics & Fundamentals
 
-This repository tracks my hands-on learning journey through C# and the .NET ecosystem, focusing on building a solid foundational core for backend software development.
+This repository tracks my hands-on learning journey through C# and the .NET ecosystem, focusing on building a solid foundational core for software development.
 
-## 🚀 Covered in this Project
+## 🚀 Covered in this Repository
 
-This initial module focuses on data variables, memory ranges, typing rules, and safe data manipulation:
+### 💻 Practical Code Labs
+* **ConsoleApp1:** Fundamental primitives, implicit typing rules (`var`), constants, and memory limitations of data types.
+* **02_Classes:** Understanding structural basics of object instantiation.
+* **03_constructer:** Customizing initial object state and utilizing constructors to enforce proper object birth.
+* **04_fields:** Allocating data slots inside a class to manage local object state.
+* **05_methods:** Writing functional behaviors and executing actions inside classes.
+* **06_access_modifiers:** Implementing encapsulation rules (`public`, `private`) to control data visibility and protect backend logic.
 
-* **00_Data Types & Type Inference (`var`):** Understanding fundamental primitives (`int`, `float`, `char`, `string`, `bool`) and using implicit typing securely.
-* **01_Placeholders & Min/Max Limits:** Printing values dynamically using composite formatting strings (`{0} {1}`) and inspecting architectural limits of data types like `byte` and `float`.
-* **02_Constants:** Declaring immutable data streams with the `const` modifier to prevent unintended runtime memory alterations.
-* **03_Type Conversion (Implicit vs. Explicit):** Implementing safe, implicit casting (e.g., parsing a narrower `byte` directly into a wider `int`) and utilizing helper utilities like the `Convert` class for string-to-numeric casting.
-* **04_Exception Handling (`try-catch`):** Implementing basic data resilience mechanisms by intercepting structural data casting overflows (such as trying to isolate an out-of-bounds string value into a limited `byte` variable) to protect the software thread from crashing.
+### 📝 Technical Concept Notes
+* **07_interface:** Core architectural definitions, understanding software contracts, and exploring loose coupling.
+* **08_generics:** Theoretical templates for maintaining strict type safety while building reusable, high-performance data patterns.
 
 ---
 
 ## 🛠️ Tech Stack & Environment
 
 * **Language:** C#
-* **Runtime Platform:** .NET Core / .NET SDK (v8.0+)
+* **Runtime Platform:** .NET Core / .NET SDK
 * **Development Environment:** Visual Studio Code / Linux Command Line Interface
+
+---
+
+## 💻 How to Run the Code Labs Locally
+
+Ensure you have the .NET SDK installed on your workstation.
+
+1. Clone this repository onto your machine:
+   ```bash
+   git clone git@github.com:m4hs4n/csharp_basics.git
